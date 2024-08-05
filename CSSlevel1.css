@@ -1,0 +1,22 @@
+/* h2{
+    color: blue;
+}
+button{
+    color: #000;
+    background-color: aqua;
+}
+body{
+    background-color: rgb(191, 100, 150);
+} */
+ *{
+    color: blue;
+ }
+ button{
+    color: black;
+ }
+ #heading1{
+    color: coral;
+ }
+ #box{
+    color: blue;
+ }

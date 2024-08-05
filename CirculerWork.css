@@ -1,0 +1,17 @@
+.loader{
+    width: 200px;
+    height: 200px;
+     border-radius: 50%;
+    /* background-color: aqua;  */
+    border: 20px solid #6B818C;
+    border-top: 20px solid #D8E4FF;
+    animation: rotateAnimate 1s ease-in-out infinite normal ;
+}
+@keyframes rotateAnimate{
+    form{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}

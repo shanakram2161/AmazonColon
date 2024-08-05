@@ -1,0 +1,49 @@
+/* div{
+    height: 100px;
+    background-color: pink;
+    width: 100px;
+    border: 2px;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: aqua; */
+    /* border: 2px solid aqua;
+    border-radius: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding: 25px;
+    padding: 5px,10px,15px,20px;
+    margin-bottom: 25px;
+    margin: 40px;
+} */ 
+/* h1{
+    height: 50px;
+    width: 200px;
+    background-color: yellow;
+    border-width: 2px;
+    border-style: dashed;
+    text-align: center;
+} */
+/* #question{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+ *{
+    color: white;
+ }
+#navebar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
